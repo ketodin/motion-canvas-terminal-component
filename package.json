@@ -50,7 +50,7 @@
     "rimraf": "^6.0.0",
     "rollup": "^4.0.2",
     "rollup-plugin-dts": "^6.0.2",
-    "rollup-plugin-node-externals": "^8.0.0",
+    "rollup-plugin-node-externals": "^9.0.0",
     "typescript": "^6.0.2",
     "vite": "^8.0.0",
     "vite-tsconfig-paths": "^6.0.1"
